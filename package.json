@@ -1,5 +1,5 @@
 {
-  "name": "5_sorturl",
+  "name": "UrlShortener",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

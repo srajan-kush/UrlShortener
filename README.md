@@ -20,8 +20,8 @@ Follow these steps to run the project on **port 8001**.
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/url-shortener.git
-cd url-shortener
+git clone https://github.com/srajan-kush/UrlShortener.git
+cd UrlShortener
 ```
 
 ### **2️⃣ Install Dependencies**
